@@ -1,2 +1,2 @@
 # Quote_Scraper
-Simple quote scraper
+Simple web scraper. Creates a CSV file that seperates Quotes and their authors. 
